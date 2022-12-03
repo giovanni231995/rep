@@ -4,8 +4,8 @@ import plotly.express as px
 from PIL import Image
 
 
-st.set_page_config(page_title='Upspace Report', page_icon=":bar_chart:", layout='wide')
-st.title(":bar_chart: Upspace Dashboard :rocket:")
+st.set_page_config(page_title='Report', page_icon=":bar_chart:", layout='wide')
+st.title(":bar_chart: Dashboard :rocket:")
 
 st.markdown("##")
 st.header("Seleziona il report dal menù a tendina :open_file_folder:")
